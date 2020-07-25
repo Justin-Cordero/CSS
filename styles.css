@@ -1,0 +1,65 @@
+body {
+  margin: 0 0 0 0;
+  /*vvv Will center everything without a width value*/
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.topContainer {
+  background-color: #EDEDED;
+  padding-top: 2.3em;
+  font-size: 50px;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 3.1em;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+
+.mountain {
+  position: relative;
+  top: 8px;
+}
+
+.dev {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  width: 50%;
+}
